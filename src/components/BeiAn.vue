@@ -1,6 +1,6 @@
 <template>
     <div>
-        <a href="https://beian.miit.gov.cn/" target="_blank">津ICP备202300789号-1</a>
+        <a href="https://beian.miit.gov.cn/" target="_blank">津ICP备2023007859号-1</a>
     </div>
 </template>
 <script setup>
